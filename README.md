@@ -88,19 +88,8 @@ EFI/
 
 ## 🚀 Instalação
 
-### 1. Preparar USB
-```bash
-# Criar instalador (macOS)
-sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/USB
 
-# Montar EFI
-sudo diskutil mount disk0s1
-```
-
-### 2. Copiar EFI
-- Copie a pasta `EFI` para a partição EFI do USB
-
-### 3. Gerar Serial (OBRIGATÓRIO!)
+### Gerar Serial (OBRIGATÓRIO!)
 
 ⚠️ **NÃO use os serials deste repositório!**
 
@@ -122,7 +111,7 @@ Verifique em: https://checkcoverage.apple.com
 - ✅ "Unable to verify" = OK
 - ❌ "Valid Purchase Date" = Gere outro
 
-### 4. Instalar
+### Instalar
 1. Boot pelo USB
 2. Selecione instalador no Clover
 3. Formate disco como APFS/GUID no Utilitário de Disco
