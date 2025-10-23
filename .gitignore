@@ -1,0 +1,67 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Clover Logs
+EFI/CLOVER/misc/*.log
+EFI/CLOVER/misc/preboot.log
+EFI/CLOVER/misc/debug.log
+
+# NVRAM
+nvram.plist
+
+# Theme caches
+EFI/CLOVER/themes/*/.DS_Store
+
+# ROM files that might contain MAC addresses
+# Keep as example but don't commit actual ROM values
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Personal SMBIOS data (NEVER commit these!)
+# Users should generate their own
+# config-personal.plist
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
