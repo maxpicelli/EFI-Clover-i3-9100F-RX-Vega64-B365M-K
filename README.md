@@ -6,6 +6,14 @@
 
 EFI do **Clover 5164** para Hackintosh com Intel Coffee Lake 9ª geração.
 
+## 📥 Clone do Repositório
+
+```bash
+git clone https://github.com/maxpicelli/EFI-Clover-i3-9100F-RX-Vega64-B365M-K.git
+```
+
+**Link direto:** https://github.com/maxpicelli/EFI-Clover-i3-9100F-RX-Vega64-B365M-K
+
 ---
 
 ## 💻 Hardware
