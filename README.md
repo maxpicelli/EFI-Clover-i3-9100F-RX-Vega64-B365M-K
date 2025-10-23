@@ -1,10 +1,10 @@
-# EFI Clover - i3-9100F + RX Vega 64 + ASUS B365M-K
+# 🍀 EFI Clover - i3-9100F + RX Vega 64 + ASUS B365M-K
 
 ![Clover](https://img.shields.io/badge/Clover-5164-blue)
 ![macOS](https://img.shields.io/badge/macOS-Tahoe%2026.0.1-brightgreen)
 ![macOS](https://img.shields.io/badge/macOS-Ventura%2013.7.8-success)
 
-EFI do **Clover 5164** para Hackintosh com Intel Coffee Lake 9ª geração.
+🍀 EFI do **Clover 5164** para Hackintosh com Intel Coffee Lake 9ª geração.
 
 ## 📥 Clone do Repositório
 
