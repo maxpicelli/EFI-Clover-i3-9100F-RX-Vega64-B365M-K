@@ -182,11 +182,5 @@ alcid=1 revcpu=1 revpatch=cpuname,sbvmm,diskread,pci -wegnoigpu watchdog=0 -lilu
 
 ---
 
-## ⚖️ Aviso
-
-Projeto educacional. macOS é propriedade da Apple Inc. Use por sua conta e risco.
-
----
-
 **Última atualização:** 22/10/2025 | **Clover:** 5164 | **Testado:** Tahoe 26.0.1 & Ventura 13.7.8
 
